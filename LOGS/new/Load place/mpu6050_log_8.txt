@@ -1,0 +1,14 @@
+{"acceleration": {"x": -0.12, "y": -0.69, "z": 9.83},"gyroscope": {"x": -0.01, "y": 0.00, "z": -0.00},"roll": -4.01,"pitch": 0.70,"yaw": -3.85}
+{"acceleration": {"x": 0.10, "y": -0.65, "z": 9.62},"gyroscope": {"x": 0.01, "y": 0.01, "z": -0.00},"roll": -3.85,"pitch": -0.59,"yaw": -3.85}
+{"acceleration": {"x": -0.42, "y": -0.38, "z": 9.52},"gyroscope": {"x": -0.00, "y": -0.00, "z": -0.00},"roll": -2.29,"pitch": 2.52,"yaw": -3.86}
+{"acceleration": {"x": -0.13, "y": -0.77, "z": 9.49},"gyroscope": {"x": 0.01, "y": -0.01, "z": -0.01},"roll": -4.62,"pitch": 0.77,"yaw": -3.86}
+{"acceleration": {"x": 0.14, "y": -0.83, "z": 9.99},"gyroscope": {"x": 0.02, "y": 0.03, "z": -0.01},"roll": -4.75,"pitch": -0.82,"yaw": -3.87}
+{"acceleration": {"x": -0.00, "y": -0.44, "z": 9.10},"gyroscope": {"x": 0.01, "y": 0.01, "z": -0.00},"roll": -2.76,"pitch": 0.00,"yaw": -3.87}
+{"acceleration": {"x": -0.61, "y": -0.71, "z": 9.76},"gyroscope": {"x": 0.00, "y": -0.01, "z": 0.00},"roll": -4.18,"pitch": 3.56,"yaw": -3.87}
+{"acceleration": {"x": -0.82, "y": -0.67, "z": 10.23},"gyroscope": {"x": -0.00, "y": -0.02, "z": -0.01},"roll": -3.76,"pitch": 4.58,"yaw": -3.88}
+{"acceleration": {"x": -0.33, "y": -0.34, "z": 9.86},"gyroscope": {"x": 0.01, "y": 0.01, "z": -0.00},"roll": -2.00,"pitch": 1.91,"yaw": -3.88}
+{"acceleration": {"x": -0.00, "y": -0.69, "z": 9.59},"gyroscope": {"x": 0.02, "y": 0.03, "z": -0.01},"roll": -4.13,"pitch": 0.02,"yaw": -3.89}
+{"acceleration": {"x": -0.05, "y": -0.23, "z": 10.55},"gyroscope": {"x": 0.01, "y": 0.01, "z": -0.00},"roll": -1.23,"pitch": 0.26,"yaw": -3.89}
+{"acceleration": {"x": -0.18, "y": 0.01, "z": 9.21},"gyroscope": {"x": 0.00, "y": 0.01, "z": -0.01},"roll": 0.09,"pitch": 1.11,"yaw": -3.90}
+{"acceleration": {"x": 0.07, "y": -0.21, "z": 10.14},"gyroscope": {"x": 0.01, "y": 0.02, "z": -0.01},"roll": -1.19,"pitch": -0.39,"yaw": -3.91}
+{"acceleration": {"x": -1.09, "y": 0.11, "z": 10.18},"gyroscope": {"x": 0.00, "y": -0.02, "z": -0.00},"roll": 0.59,"pitch": 6.12,"yaw": -3.92}

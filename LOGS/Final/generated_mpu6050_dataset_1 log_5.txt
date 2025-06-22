@@ -1,0 +1,15 @@
+{"acceleration": {"x": 0.26, "y": -0.62, "z": 8.76}, "gyroscope": {"x": 0.01, "y": 0.02, "z": -0.02}, "roll": -5.04, "pitch": 2.37, "yaw": -3.67}
+{"acceleration": {"x": -0.17, "y": -0.12, "z": 8.02}, "gyroscope": {"x": -0.01, "y": 0.05, "z": -0.04}, "roll": -7.89, "pitch": 2.17, "yaw": -3.68}
+{"acceleration": {"x": -0.97, "y": -1.22, "z": 10.93}, "gyroscope": {"x": -0.0, "y": 0.03, "z": -0.04}, "roll": -1.14, "pitch": -0.93, "yaw": -3.69}
+{"acceleration": {"x": -0.6, "y": -0.65, "z": 9.82}, "gyroscope": {"x": -0.01, "y": -0.01, "z": -0.0}, "roll": -5.53, "pitch": 0.49, "yaw": -3.73}
+{"acceleration": {"x": 0.39, "y": -0.24, "z": 8.4}, "gyroscope": {"x": 0.0, "y": 0.05, "z": -0.03}, "roll": -6.8, "pitch": 0.45, "yaw": -3.69}
+{"acceleration": {"x": -0.88, "y": -0.99, "z": 10.92}, "gyroscope": {"x": -0.01, "y": 0.08, "z": -0.02}, "roll": -1.23, "pitch": 4.38, "yaw": -3.7}
+{"acceleration": {"x": -0.68, "y": -0.28, "z": 10.96}, "gyroscope": {"x": -0.01, "y": 0.04, "z": -0.04}, "roll": -6.07, "pitch": -2.35, "yaw": -3.69}
+{"acceleration": {"x": -0.71, "y": -1.25, "z": 10.7}, "gyroscope": {"x": -0.0, "y": -0.01, "z": -0.03}, "roll": -4.38, "pitch": 3.62, "yaw": -3.69}
+{"acceleration": {"x": -0.08, "y": -0.64, "z": 8.54}, "gyroscope": {"x": -0.01, "y": 0.04, "z": -0.02}, "roll": -8.54, "pitch": -1.67, "yaw": -3.7}
+{"acceleration": {"x": -0.28, "y": -0.68, "z": 9.84}, "gyroscope": {"x": -0.0, "y": 0.1, "z": -0.03}, "roll": -1.63, "pitch": 1.56, "yaw": -3.69}
+{"acceleration": {"x": -0.14, "y": -0.53, "z": 9.17}, "gyroscope": {"x": -0.02, "y": 0.06, "z": -0.01}, "roll": -6.41, "pitch": 2.49, "yaw": -3.72}
+{"acceleration": {"x": -0.88, "y": -1.11, "z": 8.63}, "gyroscope": {"x": -0.01, "y": 0.14, "z": -0.02}, "roll": -5.66, "pitch": 0.33, "yaw": -3.71}
+{"acceleration": {"x": 0.39, "y": -0.63, "z": 9.99}, "gyroscope": {"x": -0.01, "y": 0.22, "z": -0.01}, "roll": -4.37, "pitch": 2.03, "yaw": -3.72}
+{"acceleration": {"x": -0.36, "y": 0.03, "z": 8.72}, "gyroscope": {"x": -0.02, "y": 0.17, "z": -0.02}, "roll": -1.38, "pitch": 3.51, "yaw": -3.71}
+{"acceleration": {"x": 0.39, "y": -0.47, "z": 8.58}, "gyroscope": {"x": -0.01, "y": 0.15, "z": -0.02}, "roll": -6.99, "pitch": 3.06, "yaw": -3.69}

@@ -1,0 +1,15 @@
+{"acceleration": {"x": -0.51, "y": -0.48, "z": 9.83},"gyroscope": {"x": 0.01, "y": 0.00, "z": -0.00},"roll": -2.82,"pitch": 2.98,"yaw": -3.61}
+{"acceleration": {"x": -0.31, "y": -0.88, "z": 10.30},"gyroscope": {"x": 0.02, "y": 0.03, "z": -0.00},"roll": -4.90,"pitch": 1.72,"yaw": -3.61}
+{"acceleration": {"x": -0.39, "y": -0.99, "z": 9.94},"gyroscope": {"x": -0.01, "y": -0.02, "z": -0.00},"roll": -5.69,"pitch": 2.23,"yaw": -3.62}
+{"acceleration": {"x": -0.58, "y": -0.54, "z": 9.46},"gyroscope": {"x": -0.00, "y": -0.02, "z": -0.00},"roll": -3.29,"pitch": 3.52,"yaw": -3.62}
+{"acceleration": {"x": -0.65, "y": -0.62, "z": 8.99},"gyroscope": {"x": -0.00, "y": -0.01, "z": -0.01},"roll": -3.98,"pitch": 4.12,"yaw": -3.63}
+{"acceleration": {"x": 0.13, "y": -0.67, "z": 9.51},"gyroscope": {"x": 0.01, "y": 0.01, "z": -0.01},"roll": -4.02,"pitch": -0.79,"yaw": -3.64}
+{"acceleration": {"x": 0.61, "y": -0.43, "z": 9.68},"gyroscope": {"x": 0.00, "y": 0.01, "z": -0.00},"roll": -2.52,"pitch": -3.62,"yaw": -3.64}
+{"acceleration": {"x": -0.02, "y": -0.48, "z": 9.91},"gyroscope": {"x": -0.01, "y": 0.01, "z": -0.00},"roll": -2.76,"pitch": 0.11,"yaw": -3.64}
+{"acceleration": {"x": 0.37, "y": -0.54, "z": 9.69},"gyroscope": {"x": 0.03, "y": 0.01, "z": 0.00},"roll": -3.18,"pitch": -2.17,"yaw": -3.64}
+{"acceleration": {"x": -0.28, "y": -0.65, "z": 10.24},"gyroscope": {"x": 0.02, "y": 0.02, "z": 0.00},"roll": -3.62,"pitch": 1.57,"yaw": -3.64}
+{"acceleration": {"x": 0.15, "y": -0.64, "z": 10.13},"gyroscope": {"x": 0.01, "y": -0.01, "z": 0.00},"roll": -3.62,"pitch": -0.83,"yaw": -3.63}
+{"acceleration": {"x": -0.12, "y": -0.40, "z": 9.24},"gyroscope": {"x": 0.01, "y": 0.01, "z": -0.00},"roll": -2.46,"pitch": 0.75,"yaw": -3.64}
+{"acceleration": {"x": -0.67, "y": -0.39, "z": 10.05},"gyroscope": {"x": 0.01, "y": -0.01, "z": -0.01},"roll": -2.21,"pitch": 3.79,"yaw": -3.65}
+{"acceleration": {"x": -0.53, "y": -0.11, "z": 9.92},"gyroscope": {"x": 0.02, "y": -0.00, "z": 0.00},"roll": -0.61,"pitch": 3.08,"yaw": -3.65}
+{"acceleration": {"x": -0.22, "y": -0.14, "z": 10.85},"gyroscope": {"x": -0.00, "y": -0.01, "z": -0.00},"roll": -0.73,"pitch": 1.14,"yaw": -3.65}
